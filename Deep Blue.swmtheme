@@ -14,175 +14,175 @@
         "inherit": true,
         "rules": [
             {
-                "foreground": "5d849e",
+                "foreground": "#5d849e",
                 "fontStyle": " italic",
                 "token": "comment"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#FF9D00",
                 "token": "keyword.operator.class"
             },
             {
-                "foreground": "FF628C",
+                "foreground": "#A599E9",
                 "token": "constant.other"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#FF9D00",
                 "token": "source.php.embedded.line"
             },
             {
-                "foreground": "9EFFFF",
+                "foreground": "#E1EFFF",
                 "token": "variable"
             },
             {
-                "foreground": "9EFFFF",
+                "foreground": "#9EFFFF",
                 "token": "support.other.variable"
             },
             {
-                "foreground": "9EFFFF",
+                "foreground": "#A599E9",
                 "token": "string.other.link"
             },
             {
-                "foreground": "9EFFFF",
+                "foreground": "#E1EFFF",
                 "token": "string.regexp"
             },
             {
-                "foreground": "9EFFFF",
+                "foreground": "#9EFFFF",
                 "token": "entity.name.tag"
             },
             {
-                "foreground": "9EFFFF",
+                "foreground": "#F7E03C",
                 "token": "entity.other.attribute-name"
             },
             {
-                "foreground": "9EFFFF",
+                "foreground": "#9EFFFF",
                 "token": "meta.tag"
             },
             {
-                "foreground": "9EFFFF",
+                "foreground": "#9EFFFF",
                 "token": "declaration.tag"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#FB94FF",
                 "token": "constant.numeric"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#FB94FF",
                 "token": "constant.language"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#FB94FF",
                 "token": "support.constant"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#FB94FF",
                 "token": "constant.character"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#E1EFFF",
                 "token": "variable.parameter"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#fff3a3",
                 "token": "punctuation.section.embedded"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#F7E03C",
                 "token": "keyword.other.unit"
             },
             {
-                "foreground": "eee280ff",
+                "foreground": "#FB94FF",
                 "token": "entity.name.class"
             },
             {
-                "foreground": "eee280ff",
+                "foreground": "#FB94FF",
                 "token": "entity.name.type.class"
             },
             {
-                "foreground": "eee280ff",
+                "foreground": "#FB94FF",
                 "token": "support.type"
             },
             {
-                "foreground": "eee280ff",
+                "foreground": "#FB94FF",
                 "token": "support.class"
             },
             {
-                "foreground": "adee7aff",
+                "foreground": "#89ff6e",
                 "token": "string"
             },
             {
-                "foreground": "adee7aff",
+                "foreground": "#fff3a3",
                 "token": "entity.other.inherited-class"
             },
             {
-                "foreground": "adee7aff",
+                "foreground": "#F7E03C",
                 "token": "markup.heading"
             },
             {
-                "foreground": "b8cae8ff",
+                "foreground": "#b8cae8ff",
                 "token": "constant.other.color"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#F7E03C",
                 "token": "entity.name.function"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#F7E03C",
                 "token": "meta.function-call"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#F7E03C",
                 "token": "support.function"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#F7E03C",
                 "token": "keyword.other.special-method"
             },
             {
-                "foreground": "FF9D00",
+                "foreground": "#F7E03C",
                 "token": "meta.block-level"
             },
             {
-                "foreground": "F7E03C",
+                "foreground": "#FF9D00",
                 "token": "keyword"
             },
             {
-                "foreground": "F7E03C",
+                "foreground": "#FF9D00",
                 "token": "storage"
             },
             {
-                "foreground": "F7E03C",
+                "foreground": "#FB94FF",
                 "token": "storage.type"
             },
             {
-                "foreground": "F7E03C",
+                "foreground": "#9EFFFF",
                 "token": "entity.name.tag.css"
             },
             {
-                "foreground": "F7E03C",
+                "foreground": "#FF9D00",
                 "token": "keyword.operator"
             },
             {
-                "foreground": "eeeeeeff",
-                "background": "ee7c80ff",
+                "foreground": "#eeeeeeff",
+                "background": "#EC3A37F5",
                 "token": "invalid"
             },
             {
-                "foreground": "b8cae8ff",
-                "background": "6b4f4fff",
+                "foreground": "#b8cae8ff",
+                "background": "#F7E03C",
                 "token": "meta.separator"
             },
             {
-                "foreground": "243043ff",
-                "background": "ee864dff",
+                "foreground": "#243043ff",
+                "background": "#E1EFFF",
                 "token": "invalid.deprecated"
             },
             {
-                "foreground": "4fe1eeff",
+                "foreground": "#A599E9",
                 "token": "constant.character"
             },
             {
-                "foreground": "4fe1eeff",
+                "foreground": "#A599E9",
                 "token": "constant.other"
             }
         ],
